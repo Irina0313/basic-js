@@ -94,8 +94,8 @@ class VigenereCipheringMachine {
     return result;
 
   }
-  decrypt() {
-    throw new NotImplementedError('Not implemented');
+  decrypt(param, key) {
+    //throw new NotImplementedError('Not implemented');
     // remove line with error and write your code here
   }
 }
